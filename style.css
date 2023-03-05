@@ -1,0 +1,45 @@
+* {
+    background-color: antiquewhite;
+    font-weight: bold;
+}
+h1 {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 50px;
+}
+.flex-container {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.img-main {
+    height: auto;
+    width: 300px;
+    border-radius: 200px;
+    margin-top: 30px;
+}
+.fish {
+    height: auto;
+    width: 350px;
+    
+}
+.flex-container {
+    display: flex
+}
+
+.flex-child{
+    margin-right: 20px;
+    flex:auto;
+}
+.flex-child:first-child {
+    margin-left: 20px;
+}
+.img-recipe {
+    height: auto;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.indiv-recipe {
+    font-family:'Courier New', Courier, monospace;
+    margin-left: 20px;
+}
