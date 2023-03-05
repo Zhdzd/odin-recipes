@@ -10,3 +10,10 @@ Will revisit project to enhance design of web page.
 
 Cheers!
 
+** Update **
+- Basic CSS added to webpage 
+- External CSS method used
+- Practiced CSS using classes 
+- Explored different styles for images 
+- incorporated divs
+
